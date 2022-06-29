@@ -1,3 +1,9 @@
+----CONVENCIONES----
+1. tarea con fecha: pendiente
+2. ***: hecho
+3. con nombre: asignada, pero sin fecha
+4. sin nada: falta por asignar
+
 -TAREAS MECÁNICA: corto plazo-
 ---DISEÑO
 -concretar diseño chasis híbrido (José)
