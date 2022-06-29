@@ -12,12 +12,12 @@
 ya están definidas. --->24/6/22
 -aplicar modificaciones a diseño de chasis
 -concretar visitas y contactos para tema de diseño y simulación de suspensión (Franklin)***
---si motor será brushless, empezar a investigar el tema de la transmisión para ese motor(Martín) --->24/6/22
+--si motor será brushless, empezar a investigar el tema de la transmisión para ese motor(Martín) --->24/6/22--->28/6/22
 -profundizar en el tema de la suspensión: alternativas o suplementos(Martín), hablar con 12 clicks --->
 -chasis pbc: liderazgo; establecer cuánta tuberia hay, cuánta se necesita, codos, accesorios, etc. (Juan Felipe)***
 
 ---Presupuesto aprox suspensión: 14-15/6/22. Para poder recibir una aseroría adecuada en
-reunión presencial 12clicks (José)
+reunión presencial 12clicks (José)***
 ---SIMULACIÓN
 -hacer la convergencia en ANSYS del chasis 3.2 (Thomas)--->pendiente activación de licencias
 -simulación de simetría monocasco (Thomas) --->
@@ -26,11 +26,11 @@ reunión presencial 12clicks (José)
 ---SIMULACIÓN y DISEÑO
 -modificar diseño en largo, alto y tal vez en masa (como parametros en ANSYS) para 
 comenzar a trabajar con mejor ubicación del centro de masa
--comenzar a agrupar parametros que haya dado estrategia para no olvidarlos a la hora de diseñar o simular(Martín) --->mañ sábado
+-comenzar a agrupar parametros que haya dado estrategia para no olvidarlos a la hora de diseñar o simular(Martín) --->25/6/22
 ---COMUNICACIONES con los demás equipos
 --->Agendar! (José)
 -discusión con estrategia sobre el tema de distribución de cargas
--discusión con administración sobre definición del motor para el carro: cómo estamos?
---qué tipo de fibra es la que se compró?
+-discusión con administración sobre definición del motor para el carro: cómo estamos?***
+--qué tipo de fibra es la que se compró?***
 -discusión con aerodinámica sobre su nueva propuesta de diseño
 -investigación sobre efecto willie-willie para tener más bases en la discusión con aerodinámica(Martín)
