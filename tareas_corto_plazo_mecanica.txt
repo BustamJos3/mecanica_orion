@@ -7,13 +7,13 @@
 -TAREAS MECÁNICA: corto plazo-
 ---DISEÑO
 -concretar diseño chasis híbrido (José)
--modificación chasis 1: escalar para cumplir area panel y pasar a simulación (José)--->1/6/22
+-modificación chasis 1: escalar para cumplir area panel y pasar a simulación (José)--->1/6/22***
 -diseño de nueva propuesta de chasis (José)--->4/6/22
 -investigar coeficiente SST sobre estabilidad (José): proporcionalidad de dimensiones respecto a las llantas 
 ya están definidas. --->24/6/22
 -aplicar modificaciones a diseño de chasis
 -concretar visitas y contactos para tema de diseño y simulación de suspensión (Franklin)***
---si motor será brushless, empezar a investigar el tema de la transmisión para ese motor(Martín) --->24/6/22***--->28/6/22
+--si motor será brushless, empezar a investigar el tema de la transmisión para ese motor(Martín) --->24/6/22***--->28/6/22***--->4/6/22
 -profundizar en el tema de la suspensión: alternativas o suplementos(Martín), hablar con 12 clicks --->
 -chasis pbc: liderazgo; establecer cuánta tuberia hay, cuánta se necesita, codos, accesorios, etc. (Juan Felipe)***
 -revisión de cuatrimoto, acordar día para ir a ver la de amigo de Franklin(José)
