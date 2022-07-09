@@ -8,8 +8,11 @@
 -visita a revisión cuatrimoto (Franklin)--->
 ---DISEÑO
 -concretar diseño chasis híbrido (José)--->falta parte delantera en tubería (Juan Felipe)
+-comenzar a definir sistemas que se vayan a comprar para definirlos y acoplarlos a lo que se vaya a diseñar
+-frenos, buscar referencias, discusión con fabricantes (Franklin, Martín: acordar contactos y encuentros), 
+comenzar a definir y cotizar sistema (Martín)
 -modificación chasis 1: escalar para cumplir area panel y pasar a simulación (José)--->1/6/22***
--diseño de nueva propuesta de chasis (José)--->4/6/22
+-diseño de nueva propuesta de chasis (José)--->4/6/22--->8/7/22 v0
 -investigar coeficiente SST sobre estabilidad (José): proporcionalidad de dimensiones respecto a las llantas 
 ya están definidas. --->24/6/22
 -aplicar modificaciones a diseño de chasis
