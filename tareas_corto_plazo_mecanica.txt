@@ -8,12 +8,13 @@
 -visita a revisión cuatrimoto (Franklin)--->
 ---DISEÑO
 -ajustar planetario y brazos oscilantes para chasis2_0 (José)
+-montar dirección en chasis2_0 (José)
 -montar suspensión-rueda en chasis2_0 (José)
--ajustar chasis2_0 para cumplir altura del piso y ensamble con rueda (José)***
+-completar parametros de suspensión para empezar a trabajar con 12clicks
 -concretar diseño chasis híbrido (José)--->falta parte delantera en tubería (Juan Felipe)
 -comenzar a definir sistemas que se vayan a comprar para definirlos y acoplarlos a lo que se vaya a diseñar
 -frenos, buscar referencias, discusión con fabricantes (Franklin, Martín: acordar contactos y encuentros), 
-comenzar a definir y cotizar sistema (Martín)
+comenzar a definir y cotizar sistema (Martín)--->19/7/22: vemos qué respuesta hay
 -diseño de nueva propuesta de chasis (José)--->4/6/22--->8/7/22 v0
 -investigar coeficiente SST sobre estabilidad (José): proporcionalidad de dimensiones respecto a las llantas 
 ya están definidas. --->24/6/22
@@ -33,6 +34,11 @@ ya están definidas. --->24/6/22
 -modificar diseño en largo, alto y tal vez en masa (como parametros en ANSYS) para 
 comenzar a trabajar con mejor ubicación del centro de masa
 -comenzar a agrupar parametros que haya dado estrategia para no olvidarlos a la hora de diseñar o simular(Martín) --->25/6/22
+
+---CALCULOS
+-definir quienes estarán al frente del modelo de calculos para dirección
+-explicación del modelo de calculo para el resto del equipo
+
 ---COMUNICACIONES con los demás equipos
 --->Agendar! (José)
 -discusión con estrategia sobre el tema de distribución de cargas
