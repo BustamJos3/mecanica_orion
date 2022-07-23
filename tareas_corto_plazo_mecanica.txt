@@ -8,13 +8,14 @@
 -visita a revisión cuatrimoto (Franklin)--->
 ---DISEÑO
 -ajustar planetario y brazos oscilantes para chasis2_0 (José)
--montar dirección en chasis2_0 (José)
+-solucionar redondeos de bordes y esquinas en chasis2_1 (José)
+-montar dirección en chasis2_0 (José)***
 -montar suspensión-rueda en chasis2_0 (José)
 -completar parametros de suspensión para empezar a trabajar con 12clicks
--concretar diseño chasis híbrido (José)--->falta parte delantera en tubería (Juan Felipe)
 -comenzar a definir sistemas que se vayan a comprar para definirlos y acoplarlos a lo que se vaya a diseñar
 -frenos, buscar referencias, discusión con fabricantes (Franklin, Martín: acordar contactos y encuentros), 
 comenzar a definir y cotizar sistema (Martín)--->19/7/22: vemos qué respuesta hay
+-propuesta tentativa de frenos para presentar general 23/7/22(Franklin y Martín)
 -reunión virtual con contacto de suspensión (Franklin)--->21/7/22
 -diseño de nueva propuesta de chasis (José)--->4/6/22--->8/7/22 v0
 -investigar coeficiente SST sobre estabilidad (José): proporcionalidad de dimensiones respecto a las llantas 
@@ -25,11 +26,9 @@ ya están definidas. --->24/6/22
 -revisión de cuatrimoto, acordar día para ir a ver la de amigo de Franklin(José)
 
 ---SIMULACIÓN
--estar al día con clases javier ANSYS (Martín)***--->
 -hacer la convergencia en ANSYS del chasis 3.2 (Thomas)--->pendiente activación de licencias
--simulación de simetría monocasco (Thomas)***--->
 -subir resultados de simulación de simetría (Thomas)***--->
--calcular peso de chasis 1 (Thomas)--->6/7/22
+-estimación de peso adecuado para chasis basada en estado del arte (Thomas)
 -aprender ACP-post (Franklin)--->8/7/22 Buscar ese material, filtrar y aplicar a ANSYS, compartir los recursos y explicar al equipo.--->1/7/22
 ---SIMULACIÓN y DISEÑO
 -modificar diseño en largo, alto y tal vez en masa (como parametros en ANSYS) para 
@@ -37,11 +36,11 @@ comenzar a trabajar con mejor ubicación del centro de masa
 -comenzar a agrupar parametros que haya dado estrategia para no olvidarlos a la hora de diseñar o simular(Martín) --->25/6/22
 
 ---CALCULOS
--definir quienes estarán al frente del modelo de calculos para dirección
--explicación del modelo de calculo para el resto del equipo
+-definir quienes estarán al frente del modelo de calculos para dirección***
+-explicación del modelo de calculo para el resto del equipo (Juan Felipe principalmente)
 
 ---COMUNICACIONES con los demás equipos
 --->Agendar! (José)
 -discusión con estrategia sobre el tema de distribución de cargas
--discusión con aerodinámica sobre su nueva propuesta de diseño
+-discusión con aerodinámica sobre su nueva propuesta de diseño: preguntar por fecha de modelo de carrocería
 -investigación sobre efecto willie-willie para tener más bases en la discusión con aerodinámica(Martín)
