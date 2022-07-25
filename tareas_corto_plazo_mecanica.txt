@@ -7,6 +7,9 @@
 -TAREAS MECÁNICA: corto plazo-
 -visita a revisión cuatrimoto (Franklin)--->
 ---DISEÑO
+-propuesta de modelos para pruebas de Fibra de carbono con Jualian de Aerodinámica
+-impresión de modelo(s) seleccionado(s)--->5/8/22
+-inicio de pruebas de manufactura con Fibra--->6/8/22
 -ajustar planetario y brazos oscilantes para chasis2_0 (José)
 -solucionar redondeos de bordes y esquinas en chasis2_1 (José)
 -montar dirección en chasis2_0 (José)***
